@@ -15,7 +15,7 @@ public class Card {
     int number;
 
     Card(){
-        this(CLOVER,1);
+        this(DIAMOND,1);
     }
 
     Card(int kind,int number){
@@ -26,6 +26,6 @@ public class Card {
     public String toString(){
         String[] kinds = {"CLOVER","HEART","DIAMOND","SPACE"};
 
-        return "kind : "+kinds[this.kind]+" number : "+this.number;
+        return "kind : "+kinds[this.kind]+", number : "+this.number;
     }
 }

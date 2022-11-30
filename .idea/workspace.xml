@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="667d423c-ad25-4f46-b1d6-bea3799efbf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/repair/AirUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/repair/Dropship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/repair/GrandUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/repair/Marine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/repair/Repairable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/repair/RepairableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/repair/SCV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/repair/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/repair/Unit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/interface_test/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/interface_test/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/interface_test/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/interface_test/I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/interface_test/InstanceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/interface_test/InterfaceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669796883100</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat(repair) : repair interface 학습 테스트 코드 작성">
+      <created>1669810678584</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669810678584</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,7 +124,8 @@
     <MESSAGE value="feat(polyargu) : PolyArgumentTest3 기능 구현" />
     <MESSAGE value="feat(fighter) : interface 관련 학습 테스트 코드 작성" />
     <MESSAGE value="feat(parse) : interface 다형성 학습 테스트 코드 작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(parse) : interface 다형성 학습 테스트 코드 작성" />
+    <MESSAGE value="feat(repair) : repair interface 학습 테스트 코드 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(repair) : repair interface 학습 테스트 코드 작성" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

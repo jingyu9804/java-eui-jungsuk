@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="667d423c-ad25-4f46-b1d6-bea3799efbf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/fighter/Attackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/fighter/Fightable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/fighter/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/fighter/FighterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/fighter/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/fighter/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/parse/HTMLParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/parse/ParseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/parse/Parseable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/parse/ParserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch7/parse/XMLParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/jingyukim/java-eui-jungsuk"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jingyukim/java-eui-jungsuk&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669729912709</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat(fighter) : interface 관련 학습 테스트 코드 작성">
+      <created>1669730837881</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669730837881</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat(ch7) : super 기능 테스트 구현" />
     <MESSAGE value="feat(polyargu) : PolyArgumentTest3 기능 구현" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(polyargu) : PolyArgumentTest3 기능 구현" />
+    <MESSAGE value="feat(fighter) : interface 관련 학습 테스트 코드 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(fighter) : interface 관련 학습 테스트 코드 작성" />
   </component>
 </project>
